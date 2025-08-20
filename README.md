@@ -1,15 +1,24 @@
 <div align="center">
 
 ```
-████████╗██╗  ██╗██████╗ ███████╗ █████╗ ██████╗ 
-╚══██╔══╝██║  ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗
-   ██║   ███████║██████╔╝█████╗  ███████║██║  ██║
-   ██║   ██╔══██║██╔══██╗██╔══╝  ██╔══██║██║  ██║
-   ██║   ██║  ██║██║  ██║███████╗██║  ██║██████╔╝
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ 
+███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ 
+████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ 
+
+████████╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ██████╗ 
+╚══██╔══╝██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗██╔══██╗
+   ██║   ███████║ ╚████╔╝  ╚████╔╝ ███████║██████╔╝
+   ██║   ██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║██╔══██╗
+   ██║   ██║  ██║   ██║      ██║   ██║  ██║██████╔╝
+   ╚═╝   ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3C%2F%3E+FULL+STACK+DEVELOPER+%3C%2F%3E;%E2%96%B6+BUILDING+THE+DIGITAL+FUTURE;%E2%9A%A1+CODE+%7C+CREATE+%7C+INNOVATE+%E2%9A%A1" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -17,17 +26,29 @@
 
 <div align="left">
 
-## `./about_me`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> `./system_info`
 
-```json
-{
-  "name": "Muhammad Tayyab",
-  "role": "Full Stack Developer",
-  "location": "🇵🇰 Pakistan",
-  "status": "🟢 Available for opportunities",
-  "focus": ["Web Development", "Backend Solutions"],
-  "motto": "Code is poetry in motion"
-}
+```yaml
+System: Developer Profile v2.0.24
+───────────────────────────────────────
+user:
+  name: "Muhammad Tayyab"
+  role: "Full Stack Developer"
+  location: "Pakistan 🇵🇰"
+  timezone: "GMT+5"
+  
+status:
+  availability: online
+  current_project: "NextJS Enterprise Apps"
+  looking_for: ["Remote Opportunities", "Open Source Collaboration"]
+  
+specialization:
+  - Web Application Architecture
+  - Backend API Development  
+  - Database Design & Optimization
+  - Cloud Infrastructure
+  
+philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 ```
 
 </div>
@@ -36,47 +57,94 @@
 
 <div align="center">
 
-## `./tech_stack`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> `./technology_matrix`
 
-### **Frontend**
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Frontend Arsenal**
+<br><br>
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vue](https://skillicons.dev/icons?i=vue)
 ![Angular](https://skillicons.dev/icons?i=angular)
+<br>
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
+<br>
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Sass](https://skillicons.dev/icons?i=sass)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Vite](https://skillicons.dev/icons?i=vite)
 
-### **Backend**
+</td>
+<td align="center" width="25%">
+
+**Backend Infrastructure**
+<br><br>
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Django](https://skillicons.dev/icons?i=django)
+<br>
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Go](https://skillicons.dev/icons?i=go)
+<br>
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![C#](https://skillicons.dev/icons?i=cs)
+![.NET](https://skillicons.dev/icons?i=dotnet)
 
-### **Database & Cloud**
+</td>
+<td align="center" width="25%">
+
+**Data & Cloud**
+<br><br>
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Redis](https://skillicons.dev/icons?i=redis)
+<br>
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![GCP](https://skillicons.dev/icons?i=gcp)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+<br>
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Terraform](https://skillicons.dev/icons?i=terraform)
 
-### **Tools**
+</td>
+<td align="center" width="25%">
+
+**Development Toolkit**
+<br><br>
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![Bitbucket](https://skillicons.dev/icons?i=bitbucket)
+<br>
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
 ![Figma](https://skillicons.dev/icons?i=figma)
+![Postman](https://skillicons.dev/icons?i=postman)
+<br>
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Vim](https://skillicons.dev/icons?i=vim)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -84,41 +152,256 @@
 
 <div align="center">
 
-## `./stats`
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tayyab-742002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-742002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-742002&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-</div>
-
----
-
-<div align="center">
-
-## `./projects`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> `./performance_metrics`
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Tayyab-742002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF"/>
+</td>
+<td align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-742002&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+</td>
+</tr>
+</table>
 
-### 🚀 **Project Alpha**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-742002&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF" />
 
-- **Tech:** NextJS, Sanity
-- **Status:** 🟢 Production
-- [Live Demo](https://worldviewcars.com) | [Source](https://github.com/Tayyab-742002/project-alpha)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-742002&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> `./featured_projects`
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Car" width="60" height="60" />
+
+### **World View Cars**
+*Enterprise E-commerce Platform*
+
+```bash
+├── NextJS 14 (App Router)
+├── Sanity CMS Integration
+├── Advanced SEO Optimization
+├── Payment Gateway Integration
+└── Responsive Design System
+```
+
+**Status:** <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square&logo=vercel&logoColor=white" />
+
+[<img src="https://img.shields.io/badge/🌐_Live_Demo-FF4081?style=for-the-badge&logoColor=white" />](https://worldviewcars.com)
+[<img src="https://img.shields.io/badge/📱_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Tayyab-742002/worldview-cars)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔮 **Project Beta**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping" width="60" height="60" />
 
-- **Tech:** NextJS, Sanity
-- **Status:** 🟢 Production
-- [Live Demo](https://hsecommerce.store) | [Source](https://github.com/Tayyab-742002/project-beta)
+### **HS E-commerce Store**
+*Modern Shopping Experience*
 
+```bash
+├── NextJS 14 Architecture
+├── Sanity Headless CMS
+├── Real-time Inventory
+├── Advanced Search & Filters
+└── Mobile-First Design
+```
+
+**Status:** <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square&logo=vercel&logoColor=white" />
+
+[<img src="https://img.shields.io/badge/🌐_Live_Demo-FF4081?style=for-the-badge&logoColor=white" />](https://hsecommerce.store)
+[<img src="https://img.shields.io/badge/📱_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Tayyab-742002/hs-ecommerce)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Activity" width="25" height="25" /> `./activity_graph`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-742002&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline&area_color=00F5FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> `./achievements_unlock`
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tayyab-742002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=3&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Organizations,Experience,Joined2020,SuperRank" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> `./network_connections`
+
+```bash
+# Social Network Endpoints
+```
+
+<table>
+<tr>
+<td align="center">
+
+[<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://eviorcode.online)
+<br>
+**Personal Website**
+
+</td>
+<td align="center">
+
+[<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-tayyab-2a79a9245/)
+<br>
+**Professional Network**
+
+</td>
+<td align="center">
+
+[<img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/tayyab_dev)
+<br>
+**Tech Updates**
+
+</td>
+<td align="center">
+
+[<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tayyab.dev@gmail.com)
+<br>
+**Direct Contact**
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+---
+
+<div align="left">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> `./current_runtime`
+
+```typescript
+interface DeveloperRuntime {
+  version: string;
+  currentStack: TechStack[];
+  activeProjects: Project[];
+  learning: string[];
+  collaboration: CollabType[];
+  expertise: string[];
+  nextMilestone: string;
+}
+
+class TayyabDeveloper implements DeveloperRuntime {
+  version = "2024.08.21";
+  currentStack = ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "AWS"];
+  activeProjects = [
+    "Enterprise Dashboard Platform",
+    "AI-Powered Content Management System",
+    "Microservices Architecture Implementation"
+  ];
+  learning = [
+    "Advanced System Design Patterns",
+    "Machine Learning Integration",
+    "Kubernetes Orchestration",
+    "GraphQL Federation"
+  ];
+  collaboration = ["Open Source", "Remote Teams", "Startup Consulting"];
+  expertise = [
+    "Full Stack Architecture",
+    "API Design & Development", 
+    "Database Optimization",
+    "Cloud Infrastructure",
+    "Performance Engineering"
+  ];
+  nextMilestone = "Contributing to major open-source frameworks";
+  
+  getMotivation(): string {
+    return "Transforming ideas into scalable digital solutions 🚀";
+  }
+}
+
+export default new TayyabDeveloper();
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" alt="Clock" width="25" height="25" /> `./weekly_development_cycle`
+
+<!--START_SECTION:waka-->
+```text
+TypeScript       14 hrs 32 mins  ████████████░░░░░  48.5%
+JavaScript       8 hrs 45 mins   ███████░░░░░░░░░░  29.2%
+Python           3 hrs 22 mins   ██░░░░░░░░░░░░░░░  11.3%
+CSS/SCSS         2 hrs 15 mins   ██░░░░░░░░░░░░░░░   7.5%
+YAML/JSON        1 hr 8 mins     █░░░░░░░░░░░░░░░░   3.8%
+```
+<!--END_SECTION:waka-->
+
+<img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Total time coded since Oct 10 2020" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="25" height="25" /> `./commit_calendar`
+
+<img src="https://ghchart.rshah.org/00F5FF/Tayyab-742002" alt="GitHub Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    SYSTEM STATUS: ONLINE                     ║
+║                  LAST_UPDATE: 2024.08.21                    ║
+║                NEXT_DEPLOYMENT: CONTINUOUS                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+**"Code is like humor. When you have to explain it, it's bad."** *- Cory House*
+
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=Tayyab-742002&color=00F5FF&style=for-the-badge&label=PROFILE+VISITORS" />
+</td>
+<td align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTayyab-742002&count_bg=%2300F5FF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=REPOSITORY+VIEWS&edge_flat=false" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/Tayyab-742002?color=00F5FF&style=for-the-badge&logo=github&label=FOLLOWERS" />
 </td>
 </tr>
 </table>
@@ -129,98 +412,8 @@
 
 <div align="center">
 
-## `./activity`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,8,10,12,14,16&height=150&section=footer&text=THANKS+FOR+CONNECTING&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-742002&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## `./achievements`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tayyab-742002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
-
-</div>
-
----
-
-<div align="center">
-
-## `./connect`
-
-```bash
-# Find me on
-```
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logoColor=white)](https://eviorcode.online)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-tayyab-2a79a9245/))
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="left">
-
-## `./current_status`
-
-```typescript
-interface DeveloperStatus {
-  code: string[];
-  learning: string;
-  collaboration: string;
-  askMeAbout: string[];
-  funFact: string;
-}
-
-const currentStatus: DeveloperStatus = {
-  code: ["TypeScript", "React", "Node.js", "Python"],
-  learning: "Machine Learning & AI Integration",
-  collaboration: "Open Source Projects",
-  askMeAbout: ["Web Dev", "Cloud Architecture", "System Design"],
-  funFact: "I think in code and dream in algorithms 🤖"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `./metrics`
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-742002&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tayyab-742002&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-</div>
-
----
-
-<div align="center">
-
-```
-┌─┐┌─┐┌┬┐┌─┐  ┌─┐┬─┐┌─┐┌─┐┌┬┐┌─┐  ┌─┐┌─┐┌┬┐┌─┐
-│  │ │ ││├┤   │  ├┬┘├┤ ├─┤ │ ├┤   │  │ │ ││├┤ 
-└─┘└─┘─┴┘└─┘  └─┘┴└─└─┘┴ ┴ ┴ └─┘  └─┘└─┘─┴┘└─┘
-```
-
-**"The best way to predict the future is to create it"**
-
-![Visitors](https://komarev.com/ghpvc/?username=Tayyab-742002&color=00d9ff&style=flat-square&label=VISITORS)
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Tayyab-742002&count_bg=%2300D9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
