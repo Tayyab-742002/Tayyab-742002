@@ -86,11 +86,11 @@
 
 ## `./stats`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tayyab-742002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-742002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-742002&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -105,19 +105,19 @@
 <td width="50%">
 
 ### 🚀 **Project Alpha**
-Advanced web application with modern architecture
-- **Tech:** React, Node.js, PostgreSQL
+
+- **Tech:** NextJS, Sanity
 - **Status:** 🟢 Production
-- [Live Demo](https://your-project.com) | [Source](https://github.com/yourusername/project-alpha)
+- [Live Demo](https://worldviewcars.com) | [Source](https://github.com/Tayyab-742002/project-alpha)
 
 </td>
 <td width="50%">
 
 ### 🔮 **Project Beta**  
-Cloud-native microservices platform
-- **Tech:** Docker, Kubernetes, AWS
-- **Status:** 🟡 Development
-- [Live Demo](https://your-project.com) | [Source](https://github.com/yourusername/project-beta)
+
+- **Tech:** NextJS, Sanity
+- **Status:** 🟢 Production
+- [Live Demo](https://hsecommerce.store) | [Source](https://github.com/Tayyab-742002/project-beta)
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ Cloud-native microservices platform
 
 ## `./activity`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-742002&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -141,7 +141,7 @@ Cloud-native microservices platform
 
 ## `./achievements`
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tayyab-742002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
 
 </div>
 
@@ -155,8 +155,8 @@ Cloud-native microservices platform
 # Find me on
 ```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logoColor=white)](https://your-website.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logoColor=white)](https://eviorcode.online)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-tayyab-2a79a9245/))
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
@@ -164,7 +164,7 @@ Cloud-native microservices platform
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## `./current_status`
 
@@ -194,9 +194,9 @@ const currentStatus: DeveloperStatus = {
 
 ## `./metrics`
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-742002&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tayyab-742002&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
 
@@ -212,8 +212,8 @@ const currentStatus: DeveloperStatus = {
 
 **"The best way to predict the future is to create it"**
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=00d9ff&style=flat-square&label=VISITORS)
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourusername&count_bg=%2300D9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false)
+![Visitors](https://komarev.com/ghpvc/?username=Tayyab-742002&color=00d9ff&style=flat-square&label=VISITORS)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Tayyab-742002&count_bg=%2300D9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false)
 
 </div>
 
