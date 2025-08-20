@@ -16,7 +16,7 @@
    ╚═╝   ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3C%2F%3E+FULL+STACK+DEVELOPER+%3C%2F%3E;%E2%96%B6+BUILDING+THE+DIGITAL+FUTURE;%E2%9A%A1+CODE+%7C+CREATE+%7C+INNOVATE+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3C%2F%3E+FULL+STACK+DEVELOPER+%3C%2F%3E;%E2%96%B6+BUILDING+THE+DIGITAL+FUTURE;%E2%9A%A1+CODE+%7C+CREATE+%7C+INNOVATE+%E2%9A%A1" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -26,7 +26,7 @@
 
 <div align="left">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> `./system_info`
+## 💻 `./system_info`
 
 ```yaml
 System: Developer Profile v2.0.24
@@ -57,13 +57,13 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> `./technology_matrix`
+## 🛠️ `./technology_matrix`
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-**Frontend Arsenal**
+**🎨 Frontend Arsenal**
 <br><br>
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
@@ -83,7 +83,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 </td>
 <td align="center" width="25%">
 
-**Backend Infrastructure**
+**⚡ Backend Infrastructure**
 <br><br>
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
@@ -103,7 +103,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 </td>
 <td align="center" width="25%">
 
-**Data & Cloud**
+**☁️ Data & Cloud**
 <br><br>
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -123,7 +123,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 </td>
 <td align="center" width="25%">
 
-**Development Toolkit**
+**🔧 Development Toolkit**
 <br><br>
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -152,7 +152,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> `./performance_metrics`
+## 📊 `./performance_metrics`
 
 <table>
 <tr>
@@ -175,13 +175,13 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> `./featured_projects`
+## 🚀 `./featured_projects`
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Car" width="60" height="60" />
+🚗
 
 ### **World View Cars**
 *Enterprise E-commerce Platform*
@@ -202,7 +202,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping" width="60" height="60" />
+🛒
 
 ### **HS E-commerce Store**
 *Modern Shopping Experience*
@@ -232,7 +232,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Activity" width="25" height="25" /> `./activity_graph`
+## 📈 `./activity_graph`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-742002&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline&area_color=00F5FF" />
 
@@ -242,7 +242,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> `./achievements_unlock`
+## 🏆 `./achievements_unlock`
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tayyab-742002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=3&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Organizations,Experience,Joined2020,SuperRank" />
 
@@ -252,7 +252,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> `./network_connections`
+## 🔗 `./network_connections`
 
 ```bash
 # Social Network Endpoints
@@ -299,7 +299,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="left">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> `./current_runtime`
+## 💾 `./current_runtime`
 
 ```typescript
 interface DeveloperRuntime {
@@ -350,7 +350,7 @@ export default new TayyabDeveloper();
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" alt="Clock" width="25" height="25" /> `./weekly_development_cycle`
+## ⏰ `./weekly_development_cycle`
 
 <!--START_SECTION:waka-->
 ```text
@@ -362,7 +362,9 @@ YAML/JSON        1 hr 8 mins     █░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Total time coded since Oct 10 2020" />
+<br>
+
+<img src="https://img.shields.io/badge/Code_Time-2,547_hrs-00F5FF?style=flat-square&labelColor=000000" alt="Total time coded" />
 
 </div>
 
@@ -370,11 +372,15 @@ YAML/JSON        1 hr 8 mins     █░░░░░░░░░░░░░░�
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="25" height="25" /> `./commit_calendar`
+## 📅 `./commit_calendar`
 
 <img src="https://ghchart.rshah.org/00F5FF/Tayyab-742002" alt="GitHub Contribution Graph" width="100%" />
 
 </div>
+
+---
+
+
 
 ---
 
