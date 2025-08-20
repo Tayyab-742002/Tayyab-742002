@@ -15,17 +15,17 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## `./about_me`
 
 ```json
 {
-  "name": "Your Name",
+  "name": "Muhammad Tayyab",
   "role": "Full Stack Developer",
-  "location": "📍 Your Location",
+  "location": "🇵🇰 Pakistan",
   "status": "🟢 Available for opportunities",
-  "focus": ["Web Development", "Cloud Architecture", "DevOps"],
+  "focus": ["Web Development", "Backend Solutions"],
   "motto": "Code is poetry in motion"
 }
 ```
