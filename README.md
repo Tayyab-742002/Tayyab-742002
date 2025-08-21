@@ -16,7 +16,7 @@
    ╚═╝   ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%3C%2F%3E+FULL+STACK+DEVELOPER+%3C%2F%3E;%E2%96%B6+BUILDING+THE+DIGITAL+FUTURE;%E2%9A%A1+CODE+%7C+CREATE+%7C+INNOVATE+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=0&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%3C%2F%3E+FULL+STACK+DEVELOPER+%3C%2F%3E;%E2%96%B6+BUILDING+THE+DIGITAL+FUTURE;%E2%9A%A1+CODE+%7C+CREATE+%7C+INNOVATE+%E2%9A%A1" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
