@@ -68,17 +68,15 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Vue](https://skillicons.dev/icons?i=vue)
-![Angular](https://skillicons.dev/icons?i=angular)
 <br>
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
 <br>
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Sass](https://skillicons.dev/icons?i=sass)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Vite](https://skillicons.dev/icons?i=vite)
+![CSS3](https://skillicons.dev/icons?i=css)
+
 
 </td>
 <td align="center" width="25%">
@@ -88,17 +86,15 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
 <br>
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
-![Go](https://skillicons.dev/icons?i=go)
 <br>
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![C#](https://skillicons.dev/icons?i=cs)
-![.NET](https://skillicons.dev/icons?i=dotnet)
+
 
 </td>
 <td align="center" width="25%">
@@ -108,17 +104,14 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Redis](https://skillicons.dev/icons?i=redis)
 <br>
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![GCP](https://skillicons.dev/icons?i=gcp)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+![Redis](https://skillicons.dev/icons?i=redis)
 <br>
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Terraform](https://skillicons.dev/icons?i=terraform)
 
 </td>
 <td align="center" width="25%">
@@ -128,17 +121,14 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Bitbucket](https://skillicons.dev/icons?i=bitbucket)
 <br>
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
-![Figma](https://skillicons.dev/icons?i=figma)
 ![Postman](https://skillicons.dev/icons?i=postman)
 <br>
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Bash](https://skillicons.dev/icons?i=bash)
-![Vim](https://skillicons.dev/icons?i=vim)
 
 </td>
 </tr>
