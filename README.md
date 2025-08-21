@@ -26,7 +26,7 @@
 
 <div align="left">
 
-## 💻 `./system_info`
+## `./system_info`
 
 ```yaml
 System: Developer Profile v2.0.24
@@ -57,13 +57,13 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## 🛠️ `./technology_matrix`
+## `./technology_matrix`
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-**🎨 Frontend Arsenal**
+**Frontend Arsenal**
 <br><br>
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
@@ -81,7 +81,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 </td>
 <td align="center" width="25%">
 
-**⚡ Backend Infrastructure**
+**Backend Infrastructure**
 <br><br>
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
@@ -99,7 +99,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 </td>
 <td align="center" width="25%">
 
-**☁️ Data & Cloud**
+**Data & Cloud**
 <br><br>
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -116,7 +116,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 </td>
 <td align="center" width="25%">
 
-**🔧 Development Toolkit**
+**Development Toolkit**
 <br><br>
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -142,7 +142,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## 📊 `./performance_metrics`
+## `./performance_metrics`
 
 <table>
 <tr>
@@ -165,13 +165,11 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## 🚀 `./featured_projects`
+## `./featured_projects`
 
 <table>
 <tr>
 <td width="50%" align="center">
-
-🚗
 
 ### **World View Cars**
 *Enterprise E-commerce Platform*
@@ -191,8 +189,6 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 </td>
 <td width="50%" align="center">
-
-🛒
 
 ### **HS E-commerce Store**
 *Modern Shopping Experience*
@@ -222,7 +218,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## 📈 `./activity_graph`
+## `./activity_graph`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-742002&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline&area_color=00F5FF" />
 
@@ -242,7 +238,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## 🔗 `./network_connections`
+## `./network_connections`
 
 ```bash
 # Social Network Endpoints
@@ -289,7 +285,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="left">
 
-## 💾 `./current_runtime`
+## `./current_runtime`
 
 ```typescript
 interface DeveloperRuntime {
@@ -340,7 +336,7 @@ export default new TayyabDeveloper();
 
 <div align="center">
 
-## ⏰ `./weekly_development_cycle`
+## `./weekly_development_cycle`
 
 <!--START_SECTION:waka-->
 ```text
@@ -362,7 +358,7 @@ YAML/JSON        1 hr 8 mins     █░░░░░░░░░░░░░░�
 
 <div align="center">
 
-## 📅 `./commit_calendar`
+## `./commit_calendar`
 
 <img src="https://ghchart.rshah.org/00F5FF/Tayyab-742002" alt="GitHub Contribution Graph" width="100%" />
 
