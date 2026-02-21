@@ -1,55 +1,95 @@
 <div align="center">
 
-```
-███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ 
-████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ 
+# Muhammad Tayyab
 
-████████╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ██████╗ 
-╚══██╔══╝██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝██╔══██╗██╔══██╗
-   ██║   ███████║ ╚████╔╝  ╚████╔╝ ███████║██████╔╝
-   ██║   ██╔══██║  ╚██╔╝    ╚██╔╝  ██╔══██║██╔══██╗
-   ██║   ██║  ██║   ██║      ██║   ██║  ██║██████╔╝
-   ╚═╝   ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═════╝ 
-```
+**Full Stack Developer** · Building for the web, one project at a time.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=0&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=%3C%2F%3E+FULL+STACK+DEVELOPER+%3C%2F%3E;%E2%96%B6+BUILDING+THE+DIGITAL+FUTURE;%E2%9A%A1+CODE+%7C+CREATE+%7C+INNOVATE+%E2%9A%A1" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tayyab-2a79a245/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadtayyab742002@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://codecrest.tech)
 
 </div>
 
 ---
 
-<div align="left">
+### About Me
 
-## `./system_info`
+I'm a Full Stack Developer with 3+ years of experience building high-performance web applications for international clients across **UK, Australia, Japan, and Canada**. I specialize in the JavaScript ecosystem — from React and Next.js on the frontend to Node.js and Express on the backend.
 
-```yaml
-System: Developer Profile v2.0.24
-───────────────────────────────────────
-user:
-  name: "Muhammad Tayyab"
-  role: "Full Stack Developer"
-  location: "Pakistan 🇵🇰"
-  timezone: "GMT+5"
-  
-status:
-  availability: online
-  current_project: "NextJS Enterprise Apps"
-  looking_for: ["Remote Opportunities", "Open Source Collaboration"]
-  
-specialization:
-  - Web Application Architecture
-  - Backend API Development  
-  - Database Design & Optimization
-  - Cloud Infrastructure
-  
-philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
-```
+I've shipped **15+ production applications** across e-commerce, AI/SaaS, healthcare, and automotive sectors. I'm also a **Springer-published researcher** on AI & IoT-Driven Smart Cities.
+
+- 🎓 &nbsp;BS Computer Science — **Institute of Space Technology** (CGPA: 3.88 | Silver Medalist)
+- 📄 &nbsp;Published in **Springer Book** on AI and IoT-Driven Smart Cities
+- 🌍 &nbsp;Experienced working with international clients across 4 countries
+- ⚡ &nbsp;Currently exploring **Agentic AI** and **workflow automation** with n8n
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Haigent.ai**](https://haigent.ai) | AI HR automation platform with 7 agents — built Scheduling & Sourcing agents | Next.js, n8n, Greenhouse API |
+| **Ethical Store** | Crypto digital marketplace with NOWPayments gateway | Node.js, Express, Oracle VPS |
+| [**BubbleWrapShop**](https://bubblewrapshop.co.uk) | Full-stack e-commerce for UK packaging company | Next.js, Supabase, Stripe |
+| [**EcoDailySupplies**](https://ecodailysupplies.com) | E-commerce platform with advanced filtering & guest checkout | Next.js, Supabase, Stripe |
+| [**HSEcommerce**](https://hsecommerce.co.uk) | 3PL solution platform with multi-role dashboard (30+ customers) | Next.js, Supabase, shadcn/ui |
+| **AMEN** | Smart mobility platform — React Native + Electron.js + Raspberry Pi | React Native, Electron.js, Node.js |
+| [**WorldViewCars**](https://worldviewcars.com) | Vehicle marketplace with 8-parameter search | Next.js, Vercel |
+| [**CodeCrest**](https://codecrest.tech) | Corporate site with video hero & parallax animations | Next.js, Framer Motion |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tayyab-742002&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-742002&theme=default&hide_border=true" height="165" />
 
 </div>
 
@@ -57,84 +97,7 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## `./technology_matrix`
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Frontend Arsenal**
-<br><br>
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vue](https://skillicons.dev/icons?i=vue)
-<br>
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML5](https://skillicons.dev/icons?i=html)
-<br>
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
-![CSS3](https://skillicons.dev/icons?i=css)
-
-
-</td>
-<td align="center" width="25%">
-
-**Backend Infrastructure**
-<br><br>
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Python](https://skillicons.dev/icons?i=python)
-<br>
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-<br>
-![PHP](https://skillicons.dev/icons?i=php)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![C#](https://skillicons.dev/icons?i=cs)
-
-
-</td>
-<td align="center" width="25%">
-
-**Data & Cloud**
-<br><br>
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-<br>
-![AWS](https://skillicons.dev/icons?i=aws)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Redis](https://skillicons.dev/icons?i=redis)
-<br>
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-
-</td>
-<td align="center" width="25%">
-
-**Development Toolkit**
-<br><br>
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-<br>
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![IntelliJ](https://skillicons.dev/icons?i=idea)
-![Postman](https://skillicons.dev/icons?i=postman)
-<br>
-![Linux](https://skillicons.dev/icons?i=linux)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Bash](https://skillicons.dev/icons?i=bash)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-742002&layout=compact&hide_border=true&langs_count=8" height="160" />
 
 </div>
 
@@ -142,270 +105,8 @@ philosophy: "Elegant code is like poetry - simple, powerful, and beautiful"
 
 <div align="center">
 
-## `./performance_metrics`
+*"Ship fast. Ship often. Keep learning."*
 
-<table>
-<tr>
-<td align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Tayyab-742002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF"/>
-</td>
-<td align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-742002&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-742002&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyab-742002&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## `./featured_projects`
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### **World View Cars**
-*Enterprise E-commerce Platform*
-
-```bash
-├── NextJS 14 (App Router)
-├── Sanity CMS Integration
-├── Advanced SEO Optimization
-├── Payment Gateway Integration
-└── Responsive Design System
-```
-
-**Status:** <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square&logo=vercel&logoColor=white" />
-
-[<img src="https://img.shields.io/badge/🌐_Live_Demo-FF4081?style=for-the-badge&logoColor=white" />](https://worldviewcars.com)
-[<img src="https://img.shields.io/badge/📱_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Tayyab-742002/worldview-cars)
-
-</td>
-<td width="50%" align="center">
-
-### **HS E-commerce Store**
-*Modern Shopping Experience*
-
-```bash
-├── NextJS 14 Architecture
-├── Sanity Headless CMS
-├── Real-time Inventory
-├── Advanced Search & Filters
-└── Mobile-First Design
-```
-
-**Status:** <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square&logo=vercel&logoColor=white" />
-
-[<img src="https://img.shields.io/badge/🌐_Live_Demo-FF4081?style=for-the-badge&logoColor=white" />](https://hsecommerce.store)
-[<img src="https://img.shields.io/badge/📱_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Tayyab-742002/hs-ecommerce)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-<div align="center">
-
-## `./activity_graph`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-742002&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline&area_color=00F5FF" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 `./achievements_unlock`
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tayyab-742002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=3&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Organizations,Experience,Joined2020,SuperRank" />
-
-</div>
-
----
-
-<div align="center">
-
-## `./network_connections`
-
-```bash
-# Social Network Endpoints
-```
-
-<table>
-<tr>
-<td align="center">
-
-[<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://eviorcode.online)
-<br>
-**Personal Website**
-
-</td>
-<td align="center">
-
-[<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-tayyab-2a79a9245/)
-<br>
-**Professional Network**
-
-</td>
-<td align="center">
-
-[<img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/tayyab_dev)
-<br>
-**Tech Updates**
-
-</td>
-<td align="center">
-
-[<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tayyab.dev@gmail.com)
-<br>
-**Direct Contact**
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-<div align="left">
-
-## `./current_runtime`
-
-```typescript
-interface DeveloperRuntime {
-  version: string;
-  currentStack: TechStack[];
-  activeProjects: Project[];
-  learning: string[];
-  collaboration: CollabType[];
-  expertise: string[];
-  nextMilestone: string;
-}
-
-class TayyabDeveloper implements DeveloperRuntime {
-  version = "2024.08.21";
-  currentStack = ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "AWS"];
-  activeProjects = [
-    "Enterprise Dashboard Platform",
-    "AI-Powered Content Management System",
-    "Microservices Architecture Implementation"
-  ];
-  learning = [
-    "Advanced System Design Patterns",
-    "Machine Learning Integration",
-    "Kubernetes Orchestration",
-    "GraphQL Federation"
-  ];
-  collaboration = ["Open Source", "Remote Teams", "Startup Consulting"];
-  expertise = [
-    "Full Stack Architecture",
-    "API Design & Development", 
-    "Database Optimization",
-    "Cloud Infrastructure",
-    "Performance Engineering"
-  ];
-  nextMilestone = "Contributing to major open-source frameworks";
-  
-  getMotivation(): string {
-    return "Transforming ideas into scalable digital solutions 🚀";
-  }
-}
-
-export default new TayyabDeveloper();
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `./weekly_development_cycle`
-
-<!--START_SECTION:waka-->
-```text
-TypeScript       14 hrs 32 mins  ████████████░░░░░  48.5%
-JavaScript       8 hrs 45 mins   ███████░░░░░░░░░░  29.2%
-Python           3 hrs 22 mins   ██░░░░░░░░░░░░░░░  11.3%
-CSS/SCSS         2 hrs 15 mins   ██░░░░░░░░░░░░░░░   7.5%
-YAML/JSON        1 hr 8 mins     █░░░░░░░░░░░░░░░░   3.8%
-```
-<!--END_SECTION:waka-->
-
-<br>
-
-<img src="https://img.shields.io/badge/Code_Time-2,547_hrs-00F5FF?style=flat-square&labelColor=000000" alt="Total time coded" />
-
-</div>
-
----
-
-<div align="center">
-
-## `./commit_calendar`
-
-<img src="https://ghchart.rshah.org/00F5FF/Tayyab-742002" alt="GitHub Contribution Graph" width="100%" />
-
-</div>
-
----
-
-
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM STATUS: ONLINE                     ║
-║                  LAST_UPDATE: 2024.08.21                    ║
-║                NEXT_DEPLOYMENT: CONTINUOUS                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-**"Code is like humor. When you have to explain it, it's bad."** *- Cory House*
-
-<table>
-<tr>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=Tayyab-742002&color=00F5FF&style=for-the-badge&label=PROFILE+VISITORS" />
-</td>
-<td align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTayyab-742002&count_bg=%2300F5FF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=REPOSITORY+VIEWS&edge_flat=false" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/github/followers/Tayyab-742002?color=00F5FF&style=for-the-badge&logo=github&label=FOLLOWERS" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,8,10,12,14,16&height=150&section=footer&text=THANKS+FOR+CONNECTING&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70"/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+![Profile Views](https://komarev.com/ghpvc/?username=Tayyab-742002&color=blue&style=flat)
 
 </div>
