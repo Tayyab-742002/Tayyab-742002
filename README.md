@@ -1,95 +1,202 @@
 <div align="center">
 
-# Muhammad Tayyab
+<!-- Typing Animation Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Muhammad+Tayyab;Full+Stack+Developer;3%2B+Years+of+Experience;15%2B+Production+Apps+Shipped;Springer-Published+Researcher" alt="Typing SVG" /></a>
 
-**Full Stack Developer** · Building for the web, one project at a time.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tayyab-2a79a245/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadtayyab742002@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://codecrest.tech)
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/muhammad-tayyab-2a79a245/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:muhammadtayyab742002@email.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://codecrest.tech">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tayyab-742002&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-### About Me
+### 🧑‍💻 &nbsp;About Me
 
-I'm a Full Stack Developer with 3+ years of experience building high-performance web applications for international clients across **UK, Australia, Japan, and Canada**. I specialize in the JavaScript ecosystem — from React and Next.js on the frontend to Node.js and Express on the backend.
+```yaml
+name: Muhammad Tayyab
+role: Full Stack Developer
+location: Pakistan
+experience: 3+ years
+education: BS Computer Science — Institute of Space Technology (CGPA: 3.88 | Silver Medalist)
+publication: Springer Book Chapter — AI & IoT-Driven Smart Cities
 
-I've shipped **15+ production applications** across e-commerce, AI/SaaS, healthcare, and automotive sectors. I'm also a **Springer-published researcher** on AI & IoT-Driven Smart Cities.
-
-- 🎓 &nbsp;BS Computer Science — **Institute of Space Technology** (CGPA: 3.88 | Silver Medalist)
-- 📄 &nbsp;Published in **Springer Book** on AI and IoT-Driven Smart Cities
-- 🌍 &nbsp;Experienced working with international clients across 4 countries
-- ⚡ &nbsp;Currently exploring **Agentic AI** and **workflow automation** with n8n
+currently_working_on: Agentic AI & Workflow Automation (n8n)
+clients_served_in: UK, Australia, Japan, Canada
+production_apps_shipped: 15+
+```
 
 ---
 
-### Tech Stack
+### ⚡ &nbsp;Tech Stack
+
+<div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp&theme=dark" alt="Languages"/>
+</a>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,electron&theme=dark" alt="Frontend"/>
+</a>
 
-**Backend**
+**Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,supabase,firebase&theme=dark" alt="Backend"/>
+</a>
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,nginx,linux,githubactions,git&theme=dark" alt="DevOps"/>
+</a>
+
+</div>
 
 ---
 
-### Featured Projects
+### 🚀 &nbsp;Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Haigent.ai**](https://haigent.ai) | AI HR automation platform with 7 agents — built Scheduling & Sourcing agents | Next.js, n8n, Greenhouse API |
-| **Ethical Store** | Crypto digital marketplace with NOWPayments gateway | Node.js, Express, Oracle VPS |
-| [**BubbleWrapShop**](https://bubblewrapshop.co.uk) | Full-stack e-commerce for UK packaging company | Next.js, Supabase, Stripe |
-| [**EcoDailySupplies**](https://ecodailysupplies.com) | E-commerce platform with advanced filtering & guest checkout | Next.js, Supabase, Stripe |
-| [**HSEcommerce**](https://hsecommerce.co.uk) | 3PL solution platform with multi-role dashboard (30+ customers) | Next.js, Supabase, shadcn/ui |
-| **AMEN** | Smart mobility platform — React Native + Electron.js + Raspberry Pi | React Native, Electron.js, Node.js |
-| [**WorldViewCars**](https://worldviewcars.com) | Vehicle marketplace with 8-parameter search | Next.js, Vercel |
-| [**CodeCrest**](https://codecrest.tech) | Corporate site with video hero & parallax animations | Next.js, Framer Motion |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Haigent.ai</h3>
+      <p align="center">
+        AI HR Automation Platform with 7 agents — built Scheduling & Sourcing agents using n8n, Greenhouse API
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Ethical Store</h3>
+      <p align="center">
+        Crypto digital marketplace with NOWPayments gateway, deployed on Oracle VPS with Nginx & Prometheus
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://bubblewrapshop.co.uk">BubbleWrapShop</a></h3>
+      <p align="center">
+        Full-stack e-commerce for UK company — 14+ categories, Stripe, Meta Pixel, Google Merchant, B2B portal
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://ecodailysupplies.com">EcoDailySupplies</a></h3>
+      <p align="center">
+        E-commerce platform with advanced filtering, Quick View, guest checkout, Stripe & Google Merchant
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://hsecommerce.co.uk">HSEcommerce</a></h3>
+      <p align="center">
+        3PL solution with multi-role dashboard (super-admin, managers, customers) — serving 30+ businesses
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">AMEN (FYP)</h3>
+      <p align="center">
+        3-layer smart mobility platform — React Native app + Electron.js on Raspberry Pi + admin dashboard
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🔹 More Projects</b></summary>
+<br/>
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [WorldViewCars](https://worldviewcars.com) | Vehicle marketplace with 8-parameter search | Next.js, Vercel |
+| [CodeCrest](https://codecrest.tech) | Corporate site — video hero, parallax, animations | Next.js, Framer Motion |
+| [HSEcommerce Store](https://hsecommerce.store) | Marketplace for Amazon/eBay/Etsy/TikTok accounts | Next.js, Resend |
+| [Hamilton Healthcare](https://hamiltonhealthcareservices.com) | Healthcare staffing platform with careers portal | Next.js, Cloudflare R2 |
+| [DeckPro Marine](https://deckpromarine.com.au) | Australian marine service website | Next.js, Vercel |
+| Towizaza | Artist portfolio with Stripe store & music streaming | Next.js, Stripe |
+| [Flyer Tool](https://flyer.bubblewrapshop.co.uk) | Canvas-based real-time flyer customization tool | Next.js, Canvas API |
+| GalloAldo | Core Web Vitals & performance optimization | Lighthouse, Web Vitals |
+
+</details>
 
 ---
 
-### GitHub Stats
+### 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tayyab-742002&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-742002&theme=default&hide_border=true" height="165" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tayyab-742002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-742002&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-742002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+### 📚 &nbsp;Publication
+
+> **M. Tayyab et al.** — *"AMEN: Autonomous Mobility Exchange Network"*
+> Published in **Springer Book** on AI and IoT-Driven Smart Cities
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-742002&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -97,16 +204,15 @@ I've shipped **15+ production applications** across e-commerce, AI/SaaS, healthc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-742002&layout=compact&hide_border=true&langs_count=8" height="160" />
+  **💬 Let's connect — I'm always open to collaborating on interesting projects!**
 
-</div>
+  <br/>
 
----
-
-<div align="center">
-
-*"Ship fast. Ship often. Keep learning."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tayyab-742002&color=blue&style=flat)
+  <a href="https://www.linkedin.com/in/muhammad-tayyab-2a79a245/">
+    <img src="https://img.shields.io/badge/-Muhammad_Tayyab-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadtayyab742002@email.com">
+    <img src="https://img.shields.io/badge/-muhammadtayyab742002@email.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
