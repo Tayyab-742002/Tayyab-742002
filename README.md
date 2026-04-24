@@ -7,7 +7,7 @@
   <br>
 
   <p>
-    Building scalable, production-grade applications for the global market. With a rigorous foundation in Computer Science and published research via Springer, I focus on bridging complex backend architectures, autonomous AI workflows, and seamless user experiences.
+    Architecting robust, production-grade applications for the global market. I specialize in bridging complex backend infrastructure with high-performance user experiences, transforming deep technical challenges into seamless, scalable solutions.
   </p>
 
   <br><br>
