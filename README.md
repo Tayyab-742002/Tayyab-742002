@@ -1,20 +1,20 @@
 <div align="center">
-  <h1>Muhammad Tayyab</h1>
-  <p><b>Full Stack Developer & AI Systems Engineer</b></p>
-  <br>
+  <h1>M U H A M M A D &nbsp;&nbsp; T A Y Y A B</h1>
+  <p>F U L L &nbsp; S T A C K &nbsp; & &nbsp; A I &nbsp; S Y S T E M S &nbsp; E N G I N E E R</p>
 </div>
-
-Building scalable, production-grade applications for the global market. With a rigorous foundation in Computer Science and published research via Springer, I focus on bridging complex backend architectures with seamless, high-performance user experiences.
 
 <br>
 
-### ✦ Engineering Profile
+> Building scalable, production-grade applications for the global market. Bridging complex backend architectures with seamless, high-performance user experiences.
 
-**Architecture & Systems**
-Modular Monoliths &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Autonomous Workflows
+<br>
 
-**Core Ecosystem**
-TypeScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; React
+### ▌ System Parameters
 
-**Scale & Impact**
-Engineered 15+ production platforms serving enterprise and business clients across the UK, Australia, Japan, and Canada.
+| Core Capabilities | Operational Scope |
+| :--- | :--- |
+| <code>TypeScript</code> <code>Next.js</code> <code>Node.js</code> <code>React</code> | Engineered 15+ production platforms globally |
+| <code>Agentic AI</code> <code>Autonomous Workflows</code> | Delivered enterprise solutions (UK, AU, JP, CA) |
+| <code>Modular Monoliths</code> <code>Edge Computing</code> | CS Silver Medalist & Springer Published Author |
+
+<br>
