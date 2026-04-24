@@ -1,12 +1,20 @@
-# Muhammad Tayyab
-*Full Stack & AI Systems Engineer*
+<div align="center">
+  <h1>Muhammad Tayyab</h1>
+  <p><b>Full Stack Developer & AI Systems Engineer</b></p>
+  <br>
+</div>
 
-> Architecting scalable web infrastructure and autonomous AI workflows.
+Building scalable, production-grade applications for the global market. With a rigorous foundation in Computer Science and published research via Springer, I focus on bridging complex backend architectures with seamless, high-performance user experiences.
 
-I engineer robust, high-performance applications for the global market. With a rigorous foundation in Computer Science (Silver Medalist, Institute of Space Technology) and published research in *AI & IoT-Driven Smart Cities* via Springer, I specialize in bridging complex system architectures with seamless, user-centric experiences. 
+<br>
 
-### Overview
+### ✦ Engineering Profile
 
-* **Core Focus:** Agentic AI, Autonomous Workflows, and Edge Computing.
-* **Ecosystem:** Next.js, Node.js, TypeScript, React.
-* **Impact:** Engineered and shipped 15+ production-grade platforms serving enterprise and business clients across the UK, Australia, Japan, and Canada.
+**Architecture & Systems**
+Modular Monoliths &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Autonomous Workflows
+
+**Core Ecosystem**
+TypeScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; React
+
+**Scale & Impact**
+Engineered 15+ production platforms serving enterprise and business clients across the UK, Australia, Japan, and Canada.
